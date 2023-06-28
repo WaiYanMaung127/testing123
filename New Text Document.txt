@@ -13,3 +13,5 @@
   green => git commit -m "commit title"
 
   nothing => True
+
+-git log
